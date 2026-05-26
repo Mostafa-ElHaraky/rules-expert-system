@@ -1,0 +1,28 @@
+
+=== Running Expert System ===
+
+Rule 9 (high salience) fired: Alice is attempting to enroll in graduate course CS500. Special approval required.
+Rule 10 fired: Course CS101 is full. Cannot enroll Charlie.
+Rule 6 fired: Bob is eligible for CS202 (GPA >=2.5 and seats >0).
+Rule 6 fired: Alice is eligible for CS202 (GPA >=2.5 and seats >0).
+Rule 7 fired: Alice has met all prerequisites for CS500.
+Rule 7 fired: Alice has met all prerequisites for CS500.
+Rule 7 fired: Alice has met all prerequisites for CS500.
+Rule 4 fired: Course CS500 has no prerequisites. Alice can enroll directly.
+Rule 7 fired: Bob has met all prerequisites for CS202.
+Rule 7 fired: Alice has met all prerequisites for CS202.
+Rule 7 fired: Alice has met all prerequisites for CS202.
+Rule 3 fired: Charlie meets GPA >=3.0 OR has completed MATH101. Eligible for intermediate courses.
+Rule 8 fired: Charlie has at least one course with grade A or B.
+Rule 3 fired: Alice meets GPA >=3.0 OR has completed MATH101. Eligible for intermediate courses.
+Rule 8 fired: Alice has at least one course with grade A or B.
+Rule 2 fired: Alice has high GPA and completed CS101. Eligible for honors track.
+Rule 8 fired: Alice has at least one course with grade A or B.
+Rule 3 fired: Charlie meets GPA >=3.0 OR has completed MATH101. Eligible for intermediate courses.
+Rule 1 fired: Recognized student Alice.
+Rule 11 fired: Alice has senior status (>=90 credits).
+Rule 3 fired: Alice meets GPA >=3.0 OR has completed MATH101. Eligible for intermediate courses.
+Rule 5 fired: CS202 has at least one seat available. Enrollment open.
+
+=== Execution Complete ===
+
